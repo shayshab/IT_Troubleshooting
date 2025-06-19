@@ -21,4 +21,6 @@
 | File permissions issues | Use Disk Utility First Aid, repair permissions |
 | iCloud sync issues | Sign out/in, check storage, restart Mac |
 | Login items causing problems | Remove unnecessary login items, safe mode |
-| Screen flickering | Update macOS, reset NVRAM, check display settings | 
+| Screen flickering | Update macOS, reset NVRAM, check display settings |
+| NVRAM/PRAM issues | Reset NVRAM/PRAM: Restart and hold Option+Command+P+R |
+| SMC issues | Reset SMC: Shut down, hold Shift+Control+Option+Power for 10s | 
