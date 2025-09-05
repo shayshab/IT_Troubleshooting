@@ -236,6 +236,24 @@ See `SECURITY_TROUBLESHOOTING.md` for malware, phishing, access issues, and inci
 
 ---
 
+## Microsoft 365 Troubleshooting
+
+See `M365_TROUBLESHOOTING.md` for admin center, licensing, compliance, and tenant management.
+
+---
+
+## SharePoint Online Troubleshooting
+
+See `SHAREPOINT_TROUBLESHOOTING.md` for sites, permissions, sync, and content management.
+
+---
+
+## Power Platform Troubleshooting
+
+See `POWER_PLATFORM_TROUBLESHOOTING.md` for Power Apps, Power BI, Power Automate, and Power Virtual Agents.
+
+---
+
 ## Escalation & Handover
 
 - When to escalate: sustained P1/P2 impact after 30 minutes, permissions or platform limits, or suspected infrastructure/provider issues.

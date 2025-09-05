@@ -28,5 +28,8 @@ Operational, senior-level runbooks and checklists for common IT platforms.
 - Exchange & Outlook: `EXCHANGE_OUTLOOK_TROUBLESHOOTING.md`
 - Microsoft Teams: `TEAMS_TROUBLESHOOTING.md`
 - Security: `SECURITY_TROUBLESHOOTING.md`
+- Microsoft 365: `M365_TROUBLESHOOTING.md`
+- SharePoint Online: `SHAREPOINT_TROUBLESHOOTING.md`
+- Power Platform: `POWER_PLATFORM_TROUBLESHOOTING.md`
 
 Contributions: keep steps concise, evidence-led, and verifiable.
